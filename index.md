@@ -3,7 +3,7 @@ With a Raspberry Pi and a few other components, the Smart Mirror is a customizab
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Hernan Maldonado | Monta Vista High School | Electrical Engineering / Mechanical Engineering | Incoming Senior
+| Hernan | Monta Vista High School | Electrical Engineering / Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUnSAF2nm26lXJAyxVr8qITYeqWGVrPSuqTXCVXpUVX6fuZOASAL3O3XFLi_kcNMx4NDRQF9-o0tRt4_QnpcQ4ktUAOF0YuFI0D2Xjr7sqAly_m6-HCX4aPxFv4NzdqLVSH5bULWrt9PcSdZn-rzAnI=w982-h980-no?authuser=0)
   
