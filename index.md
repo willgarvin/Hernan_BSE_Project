@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+With a Raspberry Pi and a few other components, the Smart Mirror is a customizable smart mirror that projects a computer display over a traditional reflective mirror. Some possible uses include displaying the time, a calendar, picture, or other applications in your reflection. You will be transported to a sci-fi world in the comfort of your home!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
